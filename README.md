@@ -19,6 +19,11 @@ N'hésitez pas a l'utiliser et a me MP au moindre problème
 Hyperpop lover  
 Neophron / Ptite soeur / Bloodysanji / Dinnomo
 
+-------- ??? --------  
+TOUT projet en python sur mon github a était vibe codé.
+dkpshellV2, un peu mais ca va en vrai 
+jsp si je fais une v3 a dkpshell, ca sert a rien, je vais tourner en rond
+
 
 ---
 

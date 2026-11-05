@@ -24,15 +24,6 @@ TOUT projet en python sur mon github a était vibe codé.
 dkpshellV2, un peu mais ca va en vrai  
 jsp si je fais une v3 a dkpshell, ca sert a rien, je vais tourner en rond  
 
-
----
-
-## 💻 Tech Stack
-<p>
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats

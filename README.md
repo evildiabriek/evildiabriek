@@ -11,7 +11,7 @@ I dream to go 42.
 Owner of the developpement community discord [Ednity](https://discord.gg/QjHCGyh2UT)  
 
 ------- Sol's Rng -------  
-Actually at 20+ million roll, compulsive player.  
+Actually at 30+ million roll, compulsive player.  
 Pour les joueurs Sols Rng Linux, ma macro est pour vous.  
 N'hésitez pas a l'utiliser et a me MP au moindre problème  
 
@@ -20,16 +20,15 @@ Hyperpop lover
 Neophron / Ptite soeur / Bloodysanji / Dinnomo
 
 -------- ??? --------  
-TOUT projet en python sur mon github a était vibe codé.  
-dkpshellV2, un peu mais ca va en vrai  
-jsp si je fais une v3 a dkpshell, ca sert a rien, je vais tourner en rond  
+Je suis un dev bas niveau (du a mes langages), mais ducoup j'ai une super logique !  
+Svp prenez moi les entreprises
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MJVhack&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJVhack&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=evildiabriek&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evildiabriek&layout=compact&theme=radical" height="180" />
 </p>
 
 ---

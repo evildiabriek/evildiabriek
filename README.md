@@ -6,7 +6,6 @@ Développeur C et Zig, bas niveau et systèmes
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 [![Discord](https://img.shields.io/badge/Ednity-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QjHCGyh2UT)

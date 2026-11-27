@@ -33,7 +33,7 @@ Je suis un développeur bas niveau. Je travaille sur Linux (Arch), en C et en Zi
 | **Angel** | Langage de programmation de niveau intermédiaire |
 | **zcu** | Core Utils refait en zig |
 | **Exo42** | La piscine 2025 de 42 Paris fait par moi |
-| **cstring** | Librairie permettant de gérer les strings plus facilemeny |
+| **cstring** | Librairie permettant de gérer les strings plus facilement |
 
 ---
 
